@@ -139,7 +139,6 @@ border: 2px solid white;
 }
 
 .divcon > div:hover {
-  filter: brightness(80%);
   transform: scale(1.05, 1.05);
   cursor: default;
 }
