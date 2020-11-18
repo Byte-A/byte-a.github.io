@@ -138,13 +138,12 @@ border: 2px solid white;
     padding-right:10px;"
 }
 
-.blogcontainer > div:hover {
-  filter: brightness(80%);
+.divhover > div:hover {
   transform: scale(1.05, 1.05);
   cursor: pointer;
 }
 
-.blogcontainer > div > p {
+.divhover > div > p {
   height: 100%;
   max-width: 100%;
   cursor: pointer;
