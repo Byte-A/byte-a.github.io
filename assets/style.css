@@ -138,17 +138,17 @@ border: 2px solid white;
     padding-right:10px;"
 }
 
-.divhover > div:hover {
-  transform: scale(1.05, 1.05);
+.divcon > div:hover {
   filter: brightness(80%);
+  transform: scale(1.05, 1.05);
   cursor: pointer;
 }
 
-.divhover > div > p {
+.divcon > div {
   height: 100%;
   max-width: 100%;
-  cursor: pointer;
 }
+
 /** Custom Imported Fonts - OTF Format **/
 @font-face  {
   font-family: vgasys;
