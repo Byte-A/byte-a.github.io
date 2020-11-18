@@ -144,7 +144,7 @@ border: 2px solid white;
   cursor: pointer;
 }
 
-.blogcontainer > div > a > p {
+.blogcontainer > div > p {
   height: 100%;
   max-width: 100%;
 }
