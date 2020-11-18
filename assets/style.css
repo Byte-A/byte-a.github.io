@@ -147,6 +147,7 @@ border: 2px solid white;
 .divcon > div {
   height: 100%;
   max-width: 100%;
+  cursor: pointer;
 }
 
 /** Custom Imported Fonts - OTF Format **/
