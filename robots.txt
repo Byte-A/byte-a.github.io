@@ -3,7 +3,6 @@ User-agent: *
 Disallow: /projects/dndice/diceroller.js
 Disallow: /website-template.txt
 Disallow: /404.html
-Disallow: /assets/img/
 Disallow: /google12b8e1cb2d10f177.html
 #Sitemap
 Sitemap: https://byte-a.github.io/Sitemap.xml
