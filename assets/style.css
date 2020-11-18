@@ -137,6 +137,17 @@ border: 2px solid white;
     padding-left:10px;
     padding-right:10px;"
 }
+
+.blogcontainer > div:hover {
+  filter: brightness(80%);
+  transform: scale(1.05, 1.05);
+  cursor: pointer;
+}
+
+.blogcontainer > div > a > p {
+  height: 100%;
+  max-width: 100%;
+}
 /** Custom Imported Fonts - OTF Format **/
 @font-face  {
   font-family: vgasys;
