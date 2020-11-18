@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="java.net.Owen's portfolio">
+    <meta name="keywords" content="java.net.Owen, HTML, JS, CSS, JavaScript, html, css, portfolio, java.net.Owen portfolio, dev, developer, web dev, website, web developer, web development, development, coder, code, programming, programmer, home, index, home page">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Byte-A</title>
+    <link href="assets/style.css" rel="stylesheet "type="text/css">
+    <link href="assets/devicon.ico" rel="shortcut icon" type="image/icon">
+  </head>
+    <body>
+      <br>
+        <center>
+          <img src="assets/img/logo-text.png" style="display: inline-block;"/>
+          <br>
+        <div class="buttonwrapper">
+          <br>
+        <a href="index.html" id="button">Home</a>
+        <a href="blog.html" id="button">Blog</a>
+        <a href="projects.html" id="button">Projects</a>
+        <a href="about.html" id="button">About</a>
+      </center>
+      </div>
+      <div class="wrapper">
+        <hr>
+    </body>
+  </html>
