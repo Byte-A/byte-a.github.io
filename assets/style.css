@@ -140,6 +140,7 @@ border: 2px solid white;
 
 .divhover > div:hover {
   transform: scale(1.05, 1.05);
+  filter: brightness(80%);
   cursor: pointer;
 }
 
