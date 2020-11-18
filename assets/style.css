@@ -141,13 +141,13 @@ border: 2px solid white;
 .divcon > div:hover {
   filter: brightness(80%);
   transform: scale(1.05, 1.05);
-  cursor: pointer;
+  cursor: default;
 }
 
 .divcon > div {
   height: 100%;
   max-width: 100%;
-  cursor: pointer;
+  cursor: default;
 }
 
 /** Custom Imported Fonts - OTF Format **/
