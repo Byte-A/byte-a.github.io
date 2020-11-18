@@ -1,0 +1,148 @@
+html {
+  text-align: center;
+  font-family: NotoMono;
+  color: white;
+  background-color: #1a1a1a;
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+
+div {
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+
+table{
+margin: 0 auto;
+}
+
+p {
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+code {
+  color: white;
+  background-color: #0D0D0D;
+  padding: 2.5px;
+  font-weight: bold;
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+
+p{
+  font-family:NotoMono;
+  font-size:16px;
+}
+
+body::-webkit-scrollbar {
+  width: 4px;               
+}
+body::-webkit-scrollbar-track {
+  background: #4a4a4a;        
+}
+body::-webkit-scrollbar-thumb {
+  background-color: white;   
+}
+/** ID's **/
+
+#button {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px;
+  border: 3px #1a1a1a solid;
+  border-radius: 5px;
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+
+#button:hover {
+  background-color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #1a1a1a;
+  padding: 5.3px;
+  border: 3px white solid;
+  font-weight: bold;
+ }
+
+/** Hyperlink Styling - For Buttons - And Other Things ;) **/
+a:link{
+  color: #ffffff ;
+  -webkit-transition: 0.3s;
+  transition: 0.6s;
+}
+
+a:visited{
+  color: white;
+ text-decoration: none;
+}
+
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+a:active{
+  color: white;
+ text-decoration: none;
+}
+
+/** DIV Style Code**/
+
+/** Page Wrapper **/
+.wrapper {
+  width: auto;
+  text-align: center;
+  margin: 1.2em;
+}
+
+.imagewrapper{
+border: 2px solid white;
+border-radius: 25px;
+display: inline-block;
+vertical-align: middle;
+-webkit-transition: 0.3s;
+transition: 0.6s;
+margin: 0 auto;
+}
+
+.buttonwrapper {
+  border: 2px solid white;
+  height: 60px;
+  width: 350px;
+  border-radius: 25px;
+  margin: 0 auto;
+}
+
+.txtcontainer{
+  border: 2px solid white;
+  border-radius: 25px;
+  margin: 0 auto;
+}
+/** Blog Stuff **/
+.blogpost {
+border: 2px solid white;
+    border-radius: 25px;
+    margin: 0 auto;
+    width:80%;
+    padding-left:10px;
+    padding-right:10px;"
+}
+
+.sidecontent{
+    border: 2px solid white;
+    border-radius: 25px;
+    width:12.5%;
+    padding-left:10px;
+    padding-right:10px;"
+}
+/** Custom Imported Fonts - OTF Format **/
+@font-face  {
+  font-family: vgasys;
+  src: url(../fonts/vgasys.otf);
+}
+@font-face  {
+  font-family: NotoMono;
+  src: url(../fonts/NotoMono-Regular.ttf);
+}
